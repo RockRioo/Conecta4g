@@ -1,5 +1,5 @@
 {
-  "Version": "1.0",
+  "Version": "2.0",
   "ReleaseNotes": "@clebernetflix\nconfig 1.0,adicionado modo ssl para claro controle e flex",
   "UrlUpdate": "https://raw.githubusercontent.com/RockRioo/Conecta4g/main/UrlUpdate",
   "Sms": "https://raw.githubusercontent.com/RockRioo/Conecta4g/main/UrlSms",
