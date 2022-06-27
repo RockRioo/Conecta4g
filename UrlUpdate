@@ -1,11 +1,11 @@
 {
   "Version": "1.0",
   "ReleaseNotes": "@clebernetflix\nconfig 1.0,adicionado modo ssl para claro controle e flex",
-  "UrlUpdate": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/UrlUpdate",
-  "Sms": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/UrlSms",
-  "EmailFeedback": "ultranetvpn@gmail.com",
+  "UrlUpdate": "https://raw.githubusercontent.com/RockRioo/Conecta4g/main/UrlUpdate",
+  "Sms": "https://raw.githubusercontent.com/RockRioo/Conecta4g/main/UrlSms",
+  "EmailFeedback": "cleber.fernando23@gmail.com",
   "UrlContato": "https://t.me/clebernetflix",
-  "UrlTermos": "https://raw.githubusercontent.com/VENHABRABO/CONNECTA4G/main/TERMOS%20DE%20USO.html",
+  "UrlTermos": "https://raw.githubusercontent.com/RockRioo/Conecta4g/main/TERMOS%20DE%20USO.html",
   "CheckUser": "true",
   "UdpPort": "7100;7200;7300;7400;7500;7600;7700",
   "Servers": [
