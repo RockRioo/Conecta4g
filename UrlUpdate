@@ -13,7 +13,7 @@
       "Name": "SERVIDOR contapropria DOMÍNIO",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "contapropria.clebersouza.tk",
+      "ServerIP": "netbr.clebersouza.tk",
       "CheckUser": "http://20.226.18.31:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
